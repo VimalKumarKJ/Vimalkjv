@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Software</SectionTitle>
     <SectionText>
-      I have been practicing my software skills over several languages. Recently I have been working on full stack devolepment projects mainly using the MERN stack.
+      I have been working on Python and C++ programming languages mainly and started my web dev using React.js and moved upon to study more on Full-stack development and after a while started to work on mobile app dev using react native and android studio(java). Now having a glance over machine learning concepts using tensorflow.
       <br />
       Softwares used in my projects will be listed and the tech's which am using and planing to use will all be updated ;)
     </SectionText>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js<br />
+            React.js<br />HTML<br />CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +28,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>General Coding</ListTitle>
           <ListParagraph>
-            C++<br />C<br />Java
+            C++<br />C<br />Python
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,7 +37,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            SQL<br />MongoDB<br />Node.js
+            SQL<br />Node.js
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -4,28 +4,28 @@ export const projects = [
     description: "Using React, Node.js, Express & MongoDB I have build a Full Stack Web 3.0 Blockchain based Application - from start to finish. The App is called Krypt and it is a Block chain application based on the new web 3.0 which provides transactions using metamask app that allows users to purchase bitcoins and all the transactions are stored within the website log with a random gif posted to every transactions made ;) *credits: Javascript Mastery*.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://www.youtube.com/watch?v=Wn_Kb3MR_cU',
+    //source: 'https://www.youtube.com/watch?v=Wn_Kb3MR_cU',
     visit: 'https://google.com',
     id: 0,
   },
-  /*{
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+  {
+    title: 'EZ-NFC',
+    description:"Using android studio with java and xml we as in a team of 3 developed an app for easy integration of mobile accessibility settings with just a tap onto a NFC tag. With read and write capabilities to edit values within our application interface. This was developed as an mini - project for our Mobile computing laboratory.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['JAVA', 'XML'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
+    title: 'Personal- portfolio',
+    description: "Created a portfolio website using MERN stack to track my progress and showcase it as a resume but with style ;)",
+      image: '/images/3.png',
+      tags: ['Mongo-db', 'Express', 'React', 'Node'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
-  },
+  }/*,
   {
     title: 'Unichat',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
@@ -38,9 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: 'Created my first Application', },
-  /*{ year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },*/
+  { year: 2021, text: 'Created my first portfolio website', },
+  { year: 2022, text: 'Worked upon DSA and improving my programming skills', },
+  { year: 2022, text: 'Completed my first intern. Created an Attendance app with gps integration.',},
+  { year: 2023, text: 'Started working on mini-projects and a glance at AI/ML concepts', },
+  { year: 2023, text: 'graduated from Pre-final to final-year!...preparing for placements, wish me luck :)', },/*
+  { year: 2024, text: '', },*/
 ];

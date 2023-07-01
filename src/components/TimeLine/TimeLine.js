@@ -44,7 +44,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About</SectionTitle>
       <SectionText>
-        This is my personal portfolio, blog and resume at the same time.<br />I am a student studying Computer Science at Sri Venkateswara College of Engineering, Tamilnadu.I have always had the passion towards tech and softwares and so I guess that drived me into the world of computer science and technology.<br />I am currently doing my undergrad besides the assignments am planning to self-learn myself into different fields of computer science and document the whole process in my website which is what you're looking at right now.<br />I will be posting all my upcoming projects and blogs over here so yeah, this is all about me.
+        Hola!, I am pursuing my undergraduate on Computer Science at Sri Venkateswara College of Engineering, Tamilnadu. I have always had a passion for tech and software and I guess that drove me into the world of computer science and technology.<br />I am currently at my final-year besides that  am planning to self-learn myself into developing skills and geting to know a lot about dev-ops and document the whole process in my website which is what you're looking at right now.<br />I will be posting all my upcoming projects and blogs over here so yeah, this is all about me.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
